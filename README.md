@@ -13,6 +13,7 @@ This tutorial includes basic programming concepts such as separating scenes into
 * Run the python command: `python AdventureGame.py`
 * The text adventure game will start.
 
+## Example
 
 ![alt text](preview-image.jpg)
 
